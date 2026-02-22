@@ -1,0 +1,193 @@
+{
+  "common": {
+    "home": "Bosh sahifa",
+    "products": "Mahsulotlar",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "cart": "Savat",
+    "getQuote": "Narx olish",
+    "viewProducts": "Mahsulotlarni ko'rish",
+    "learnMore": "Batafsil",
+    "addToCart": "Savatga qo'shish",
+    "viewDetails": "Batafsil",
+    "sendMessage": "Yuborish",
+    "submit": "Yuborish",
+    "close": "Yopish",
+    "clear": "Tozalash",
+    "search": "Qidirish",
+    "loading": "Yuklanmoqda...",
+    "all": "Barchasi",
+    "category": "Kategoriya",
+    "phone": "Telefon",
+    "email": "Elektron pochta",
+    "address": "Manzil",
+    "company": "Kompaniya",
+    "name": "Ism",
+    "message": "Xabar",
+    "required": "Majburiy"
+  },
+  "home": {
+    "hero": {
+      "title": "Sanoat polimer yechimlari",
+      "subtitle": "Ishlab chiqarish ehtiyojlaringiz uchun premium masterbatchlar va polimer bo'yoqlar. Sifatli mahsulotlar, raqobatbardosh narxlar, o'z vaqtida yetkazib berish.",
+      "cta1": "Narx olish",
+      "cta2": "Mahsulotlarni ko'rish"
+    },
+    "categories": {
+      "title": "Bizning mahsulotlar",
+      "subtitle": "Polimer bo'yash va qo'shimchalar uchun to'liq yechimlar",
+      "blackMasterbatch": {
+        "title": "Qora masterbatch",
+        "description": "Turli ilovalar uchun ajoyib dispersiya va UV barqarorligi bilan yuqori sifatli qora masterbatch"
+      },
+      "whiteMasterbatch": {
+        "title": "Oq masterbatch",
+        "description": "Ajoyib shaffoflik va yorqinlik uchun yuqori TiO2 konsentratsiyali premium oq masterbatch"
+      },
+      "colorMasterbatch": {
+        "title": "Rangli masterbatch",
+        "description": "Ajoyib issiqlik barqarorligi va barqaror rang moslashuvi bilan yorqin rang yechimlari"
+      },
+      "pigments": {
+        "title": "Pigmentlar",
+        "description": "Masterbatch ishlab chiqarish uchun yuqori sifatli organik va noorganik pigmentlar"
+      },
+      "fillers": {
+        "title": "To'ldiruvchilar",
+        "description": "PE va PP ilovalari uchun tejamkor kalsiy karbonat va boshqa to'ldiruvchilar"
+      },
+      "additives": {
+        "title": "Funksional qo'shimchalar",
+        "description": "UV stabilizatorlar, optik oqartirgichlar, nukleatorlar va boshqa maxsus qo'shimchalar"
+      }
+    },
+    "whyUs": {
+      "title": "Nima uchun MASTEC",
+      "subtitle": "Polimer bo'yoqlar sohasida ishonchli hamkoringiz",
+      "quality": {
+        "title": "Premium sifat",
+        "description": "Tajribali ishlab chiqaruvchilardan qattiq sifat nazorati bilan yuqori sifatli mahsulotlar"
+      },
+      "pricing": {
+        "title": "Raqobatbardosh narxlar",
+        "description": "Shaffof va adolatli narxlar bilan eng yaxshi qiymat"
+      },
+      "delivery": {
+        "title": "O'z vaqtida yetkazib berish",
+        "description": "Ishlab chiqarishingiz uzluksiz ishlashi uchun ishonchli yetkazib berish jadvallari"
+      },
+      "support": {
+        "title": "Texnik qo'llab-quvvatlash",
+        "description": "Ehtiyojlaringiz uchun individual yechimlar ishlab chiqishga tayyor mutaxassis muhandislar"
+      }
+    },
+    "stats": {
+      "years": "Yillik tajriba",
+      "clients": "Mamnun mijozlar",
+      "products": "Mahsulotlar",
+      "countries": "Mamlakatlar"
+    },
+    "cta": {
+      "title": "Buyurtma berishga tayyormisiz?",
+      "subtitle": "Shaxsiy taklif olish uchun jamoamiz bilan bog'laning va MASTEC polimer bo'yoq ehtiyojlaringizni qanday qondirishi mumkinligini bilib oling.",
+      "button": "Biz bilan bog'laning"
+    }
+  },
+  "products": {
+    "title": "Bizning mahsulotlar",
+    "subtitle": "Masterbatchlar, pigmentlar va qo'shimchalarning to'liq assortimenti",
+    "filters": {
+      "title": "Filtrlar",
+      "category": "Kategoriya",
+      "clearAll": "Barchasini tozalash"
+    },
+    "sort": {
+      "label": "Saralash",
+      "nameAsc": "Nomi (A-Z)",
+      "nameDesc": "Nomi (Z-A)",
+      "newest": "Eng yangi"
+    },
+    "noProducts": "Mahsulotlar topilmadi",
+    "tryDifferent": "Filtrlarni o'zgartirib ko'ring"
+  },
+  "product": {
+    "description": "Tavsif",
+    "specifications": "Xususiyatlar",
+    "properties": "Xususiyatlari",
+    "applications": "Qo'llanilishi",
+    "inquire": "Mahsulot haqida so'rash",
+    "relatedProducts": "O'xshash mahsulotlar"
+  },
+  "cart": {
+    "title": "Savat",
+    "empty": "Savatingiz bo'sh",
+    "continueShopping": "Xaridni davom ettirish",
+    "subtotal": "Jami",
+    "checkout": "Buyurtmani rasmiylashtirish",
+    "removeItem": "O'chirish",
+    "quantity": "Miqdor",
+    "clearCart": "Savatni tozalash"
+  },
+  "checkout": {
+    "title": "Buyurtmani rasmiylashtirish",
+    "orderSummary": "Buyurtma xulosasi",
+    "contactInfo": "Aloqa ma'lumotlari",
+    "placeOrder": "Buyurtma berish",
+    "orderVia": "Yoki orqali buyurtma bering",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "success": "Buyurtma muvaffaqiyatli yuborildi!",
+    "thankYou": "Buyurtmangiz uchun rahmat. Tez orada siz bilan bog'lanamiz."
+  },
+  "contact": {
+    "title": "Aloqa",
+    "subtitle": "Narxlar, savollar yoki yordam uchun jamoamiz bilan bog'laning",
+    "form": {
+      "title": "Bizga xabar yuboring",
+      "name": "Ismingiz",
+      "email": "Elektron pochta",
+      "phone": "Telefon raqami",
+      "company": "Kompaniya nomi",
+      "message": "Xabaringiz",
+      "submit": "Xabar yuborish",
+      "success": "Xabar muvaffaqiyatli yuborildi!",
+      "error": "Xabar yuborilmadi. Qaytadan urinib ko'ring."
+    },
+    "info": {
+      "title": "Aloqa ma'lumotlari",
+      "address": "100057, Toshkent, Yunusobod tumani, Ahmad Donish ko'chasi, 19A",
+      "workingHours": "Ish vaqti",
+      "hours": "Du - Ju: 9:00 - 18:00"
+    }
+  },
+  "about": {
+    "title": "MASTEC haqida",
+    "subtitle": "O'zbekistonda polimer bo'yoqlar sohasida ishonchli hamkoringiz",
+    "mission": {
+      "title": "Bizning missiyamiz",
+      "description": "Ishlab chiqaruvchilarga o'z mahsulotlarida barqaror, yorqin natijalarni erishishga yordam berish, shaxsiy xizmat bilan yuqori sifatli polimer bo'yoqlar va masterbatchlar yetkazib berish."
+    },
+    "vision": {
+      "title": "Bizning ko'rinishimiz",
+      "description": "Markaziy Osiyoda sifati, ishonchliligi va innovatsiyalari bilan tanilgan yetakchi polimer bo'yoqlar yetkazib beruvchisi bo'lish."
+    },
+    "values": {
+      "title": "Bizning qadriyatlarimiz",
+      "quality": "Avvalo sifat",
+      "qualityDesc": "Biz mahsulot sifatida hech qachon kelishmaymiz",
+      "customer": "Mijozga yo'naltirilganlik",
+      "customerDesc": "Sizning muvaffaqiyatingiz bizning ustuvorligimiz",
+      "innovation": "Innovatsiya",
+      "innovationDesc": "Mahsulotlarimiz va jarayonlarimizni doimiy takomillashtirish",
+      "integrity": "Halollik",
+      "integrityDesc": "Halol va shaffof biznes amaliyotlari"
+    }
+  },
+  "footer": {
+    "description": "O'zbekistonda polimer bo'yoqlar va masterbatchlar ishlab chiqaruvchi yetakchi kompaniya",
+    "quickLinks": "Tezkor havolalar",
+    "contactUs": "Biz bilan bog'laning",
+    "followUs": "Bizni kuzating",
+    "copyright": "Barcha huquqlar himoyalangan"
+  }
+}

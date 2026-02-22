@@ -1,0 +1,193 @@
+{
+  "common": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "getQuote": "Get Quote",
+    "viewProducts": "View Products",
+    "learnMore": "Learn More",
+    "addToCart": "Add to Cart",
+    "viewDetails": "View Details",
+    "sendMessage": "Send Message",
+    "submit": "Submit",
+    "close": "Close",
+    "clear": "Clear",
+    "search": "Search",
+    "loading": "Loading...",
+    "all": "All",
+    "category": "Category",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "company": "Company",
+    "name": "Name",
+    "message": "Message",
+    "required": "Required"
+  },
+  "home": {
+    "hero": {
+      "title": "Industrial Polymer Solutions",
+      "subtitle": "Premium masterbatches and polymer colorants for your manufacturing needs. Quality products, competitive pricing, timely delivery.",
+      "cta1": "Get a Quote",
+      "cta2": "View Products"
+    },
+    "categories": {
+      "title": "Our Product Range",
+      "subtitle": "Comprehensive solutions for polymer coloring and additives",
+      "blackMasterbatch": {
+        "title": "Black Masterbatch",
+        "description": "High-quality black masterbatch with excellent dispersion and UV stability for various applications"
+      },
+      "whiteMasterbatch": {
+        "title": "White Masterbatch",
+        "description": "Premium white masterbatch with high TiO2 concentration for superior opacity and brightness"
+      },
+      "colorMasterbatch": {
+        "title": "Color Masterbatch",
+        "description": "Vibrant color solutions with excellent heat stability and consistent color matching"
+      },
+      "pigments": {
+        "title": "Pigments",
+        "description": "High-quality organic and inorganic pigments for masterbatch production"
+      },
+      "fillers": {
+        "title": "Fillers",
+        "description": "Cost-effective calcium carbonate and other fillers for PE and PP applications"
+      },
+      "additives": {
+        "title": "Functional Additives",
+        "description": "UV stabilizers, optical brighteners, nucleators and other specialty additives"
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose MASTEC",
+      "subtitle": "Your trusted partner for polymer colorants",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "High-quality products from experienced manufacturers with rigorous quality control"
+      },
+      "pricing": {
+        "title": "Competitive Pricing",
+        "description": "Best value for your investment with transparent and fair pricing"
+      },
+      "delivery": {
+        "title": "Timely Delivery",
+        "description": "Reliable delivery schedules to keep your production running smoothly"
+      },
+      "support": {
+        "title": "Technical Support",
+        "description": "Expert engineers ready to develop customized solutions for your needs"
+      }
+    },
+    "stats": {
+      "years": "Years Experience",
+      "clients": "Happy Clients",
+      "products": "Products",
+      "countries": "Countries Served"
+    },
+    "cta": {
+      "title": "Ready to Place an Order?",
+      "subtitle": "Contact our team for a personalized quote and discover how MASTEC can meet your polymer colorant needs.",
+      "button": "Contact Us"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Browse our complete range of masterbatches, pigments, and additives",
+    "filters": {
+      "title": "Filters",
+      "category": "Category",
+      "clearAll": "Clear All"
+    },
+    "sort": {
+      "label": "Sort by",
+      "nameAsc": "Name (A-Z)",
+      "nameDesc": "Name (Z-A)",
+      "newest": "Newest"
+    },
+    "noProducts": "No products found",
+    "tryDifferent": "Try adjusting your filters"
+  },
+  "product": {
+    "description": "Description",
+    "specifications": "Specifications",
+    "properties": "Properties",
+    "applications": "Applications",
+    "inquire": "Inquire About This Product",
+    "relatedProducts": "Related Products"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "checkout": "Proceed to Checkout",
+    "removeItem": "Remove",
+    "quantity": "Quantity",
+    "clearCart": "Clear Cart"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "orderSummary": "Order Summary",
+    "contactInfo": "Contact Information",
+    "placeOrder": "Place Order",
+    "orderVia": "Or order via",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "success": "Order placed successfully!",
+    "thankYou": "Thank you for your order. We will contact you shortly."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team for quotes, questions, or support",
+    "form": {
+      "title": "Send us a message",
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "100057, Tashkent, Yunusabad District, Ahmad Donish Street, 19A",
+      "workingHours": "Working Hours",
+      "hours": "Mon - Fri: 9:00 - 18:00"
+    }
+  },
+  "about": {
+    "title": "About MASTEC",
+    "subtitle": "Your trusted partner for polymer colorants in Uzbekistan",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide high-quality polymer colorants and masterbatches with personalized service, helping manufacturers achieve consistent, vibrant results in their products."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading supplier of polymer colorants in Central Asia, known for quality, reliability, and innovation."
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": "Quality First",
+      "qualityDesc": "We never compromise on product quality",
+      "customer": "Customer Focus",
+      "customerDesc": "Your success is our priority",
+      "innovation": "Innovation",
+      "innovationDesc": "Continuous improvement in our products and processes",
+      "integrity": "Integrity",
+      "integrityDesc": "Honest and transparent business practices"
+    }
+  },
+  "footer": {
+    "description": "Leading manufacturer of polymer colorants and masterbatches in Uzbekistan",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "copyright": "All rights reserved"
+  }
+}
