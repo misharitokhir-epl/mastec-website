@@ -73,7 +73,7 @@ export function CheckoutContent() {
   const handleTelegram = () => {
     const data = getValues();
     const message = encodeURIComponent(generateOrderMessage(data));
-    window.open(`https://t.me/share/url?url=&text=${message}`, '_blank');
+    window.open(`https://t.me/MuzammilTohir?text=${message}`, '_blank');
     setIsSubmitted(true);
     clearCart();
   };
